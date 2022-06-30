@@ -1,0 +1,83 @@
+.App {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.eventLaunchBar {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+.eventLaunchButton {
+    display: flex;
+    justify-content: center;
+}
+
+.boxDetails {
+    padding: 30px;
+}
+
+.displayAll {
+    display: inline-block;
+    justify-content: space-evenly;
+    margin: 20px;
+}
+
+.errors {
+    color: red;
+    font-size: 14px;
+    text-align: left;
+}
+
+.image {
+    width: 100%;
+    height: 400px;
+    border-radius: 5px;
+    object-fit: cover;
+    padding: 10px;
+}
+
+.myEvent {
+color:#2e9384;
+}
+
+.myEvents {
+    color:#2e9384;
+    margin-left: 50px;
+    }
+
+.spn{
+    font-size: 15px;
+    color: #ccc;
+}
+.transitBox{
+    display:inline-block;
+}
+.myEventBox{
+    border: 1px solid #c1c2c2;
+    margin:15px;
+    border-radius:1%;
+    box-shadow: 10px 10px 10px 10px #888888
+}
+
+.hoverEffect{
+    box-shadow: 0px 0px 10px black;
+    width: 360px;
+    border: 3px solid #ccc;
+}
+
+.link{
+    text-decoration: none;
+}
+
+.passwordBar{
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    
+}
